@@ -1,0 +1,10 @@
+body, html{
+    background-image:url(../images/cool.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+    height: 100%;
+    font-style: oblique;
+    color: #ccc;
+    overflow: hidden;
+    font-weight: bold;
+}
