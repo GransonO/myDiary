@@ -148,3 +148,13 @@ hr{
     margin-bottom: 10px;
     text-align: left;
 }
+
+
+#actions{
+    width: 215px;
+    padding: 5px;
+    border-radius: 10px;
+    float: right;
+    margin-bottom: 10px;
+    text-align: left;
+}
