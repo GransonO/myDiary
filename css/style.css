@@ -101,7 +101,7 @@ img {
     margin-right: auto;
 }
 
-#rounded_btn {
+.rounded_btn {
     border-radius: 10px;
     width: 100px;
     background-color: rgba(204, 204, 204, 0.014);
@@ -114,7 +114,7 @@ img {
 }
 
 
-#rounded_btn:hover {
+.rounded_btn:hover {
     border-radius: 10px;
     width: 100px;
     background-color: rgba(204, 204, 204, 0.014);
