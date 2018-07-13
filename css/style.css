@@ -91,6 +91,7 @@ img {
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     float: left;
+    padding: 5px;
 }
 
 .home_contents{
@@ -166,6 +167,29 @@ hr{
     padding: 5px;
     border-radius: 10px;
     float: right;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.date{
+    text-align: right;
+}
+
+.settings{
+    width: 770px;
+    height: 600px;
+    margin-right: 15px; 
+    border-radius: 10px;
+    float: right;
+    overflow-y: auto;
+}
+
+.settings .articles{
+    width: 550px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    float: left;
     margin-bottom: 10px;
     text-align: left;
 }
