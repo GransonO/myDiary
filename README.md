@@ -34,4 +34,4 @@ For this build no Javascript has been added yet but will follow later.
 ![screenshot 23](https://user-images.githubusercontent.com/41139653/42701457-4b1df624-86cf-11e8-86b6-70601db100ad.png)
 
 To view the project live follow the link:
-**[GransonO My Diary](https://github.com/GransonO/myDiary/UI)**
+**[GransonO My Diary](https://gransono.github.io/myDiary/UI/)**
