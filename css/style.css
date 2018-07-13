@@ -8,7 +8,7 @@ body, html{
     overflow: hidden;
     font-weight: bold;
 }
-#content_body {
+.content_body {
     background-color: rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     padding: 20px;
@@ -21,7 +21,7 @@ header{
     color: #ccc;
 }
 
-#content_body{
+.content_body{
     width: 400px;
     padding: 10px;
     text-align: center;
@@ -86,14 +86,14 @@ img {
 
 }
 
-#navigation_panel{
+.navigation_panel{
     width: 200px;
     background-color: rgba(0, 0, 0, 0.5);
     border-radius: 10px;
     float: left;
 }
 
-#home_contents{
+.home_contents{
     width: 1200px;
     margin-top: 40px;
     text-align: center;
@@ -130,7 +130,7 @@ hr{
     width: 150;
 }
 
-#logout_btn {
+.logout_btn {
     border-radius: 10px;
     width: 100px;
     background-color: rgba(204, 204, 204, 0.014);
@@ -142,7 +142,7 @@ hr{
     margin-bottom: 10px;
 }
 
-#stories{
+.stories{
     width: 970px;
     height: 600px;
     border-radius: 10px;
@@ -150,7 +150,7 @@ hr{
     overflow-y: auto;
 }
 
-#articles{
+.articles{
     width: 950px;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.5);
@@ -161,7 +161,7 @@ hr{
 }
 
 
-#actions{
+.actions{
     width: 215px;
     padding: 5px;
     border-radius: 10px;
