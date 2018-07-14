@@ -35,3 +35,6 @@ For this build no Javascript has been added yet but will follow later.
 
 To view the project live follow the link:
 **[GransonO My Diary](https://gransono.github.io/myDiary/UI/)**
+
+Link to the Pivotal Tracker for the build stories
+**[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2184351)**
